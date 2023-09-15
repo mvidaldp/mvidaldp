@@ -8,9 +8,8 @@
 </a>
 </div>
 
+<!--
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mvidaldp.mvidaldp" />
-</a>
 </div>
-
+-->
